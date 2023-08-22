@@ -4,7 +4,7 @@ A application for visualization algorithm kmeans
 
 ## Run the application
 
-python visualization_kmeans.py
+    python visualization_kmeans.py
 
 ## Usage
 
